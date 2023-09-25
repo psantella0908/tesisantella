@@ -9,7 +9,7 @@ Lo studente vorebbe che tenessi conto del suo Disturbo Specifico dell’Apprendi
 correggessi quando 
 sbaglia a fare lo spelling di parole. Lo studente vorebbe che lo aiutassi a creare un testo senza errori ortografici.
 Se identifichi degli errori, correggili e aggiungi la versione corretta nella risposta."""
-openai.api_key = "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"
+openai.api_key = "sk********************************6J"
 
 FR_PRIVATE  = 0x10
 FR_NOT_ENUM = 0x20
