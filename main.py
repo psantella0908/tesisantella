@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "sk*******************************t"
 system_message= """Sei un assistente per uno studente italiano che frequenta le scuole medie superiori. 
 Lo studente ha problemi nel leggere e scrivere per periodi prolungati perché è affetto da Disturbo Specifico dell’Apprendimento. 
 Lo studente vorebbe che tenessi conto del suo Disturbo Specifico dell’Apprendimento. Lo studente vorrebbe che lo correggessi quando 
