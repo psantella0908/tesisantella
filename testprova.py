@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "sk-*************************************Nt"
 input_text = "start"
 system_message = """."""
 
